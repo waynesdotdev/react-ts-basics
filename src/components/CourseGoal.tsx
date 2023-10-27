@@ -13,7 +13,6 @@ export default function CourseGoal({
   onDelete,
   children,
 }: CourseGoalProps) {
-  console.log(id);
   return (
     <article>
       <div>
